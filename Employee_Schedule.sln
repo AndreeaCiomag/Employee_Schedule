@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Schedule", "Employee_Schedule.csproj", "{1ACC6DC9-C6BA-4545-884A-0D39ED006032}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F068E9C-868A-4A47-B6DC-3BE8D40CA048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule_Administration", "..\Schedule_Administration\Schedule_Administration.csproj", "{D5270EFC-AD28-434A-89C7-A6FE99812B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ACC6DC9-C6BA-4545-884A-0D39ED006032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACC6DC9-C6BA-4545-884A-0D39ED006032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACC6DC9-C6BA-4545-884A-0D39ED006032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACC6DC9-C6BA-4545-884A-0D39ED006032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5270EFC-AD28-434A-89C7-A6FE99812B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5270EFC-AD28-434A-89C7-A6FE99812B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5270EFC-AD28-434A-89C7-A6FE99812B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5270EFC-AD28-434A-89C7-A6FE99812B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D0943B8-3ABC-458B-A7A3-BE6C30BF64AF}
+	EndGlobalSection
+EndGlobal

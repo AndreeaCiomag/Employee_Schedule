@@ -1,0 +1,11 @@
+C:\Users\Andreea\source\repos\Schedule_Administration\bin\Debug\Schedule_Administration.dll.config
+C:\Users\Andreea\source\repos\Schedule_Administration\bin\Debug\Schedule_Administration.dll
+C:\Users\Andreea\source\repos\Schedule_Administration\bin\Debug\Schedule_Administration.pdb
+C:\Users\Andreea\source\repos\Schedule_Administration\bin\Debug\EntityFramework.dll
+C:\Users\Andreea\source\repos\Schedule_Administration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andreea\source\repos\Schedule_Administration\bin\Debug\EntityFramework.xml
+C:\Users\Andreea\source\repos\Schedule_Administration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andreea\source\repos\Schedule_Administration\obj\Debug\Schedule_Administration.csproj.AssemblyReference.cache
+C:\Users\Andreea\source\repos\Schedule_Administration\obj\Debug\Schedule_Administration.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\source\repos\Schedule_Administration\obj\Debug\Schedule_Administration.dll
+C:\Users\Andreea\source\repos\Schedule_Administration\obj\Debug\Schedule_Administration.pdb
